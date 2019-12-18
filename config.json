@@ -1,0 +1,23 @@
+{
+  
+  "prefix":"s!",
+  "creators":"LoseJoe & LazyAndBeyond",
+  "bypass":["514951951243411467"],
+
+  "token":"NjU2ODUyMzEyMDE0MzIzNzUz.Xfosag.4j9HgfpIvbRfMKnBUgp_5EL-wFY",
+  "presence":{
+
+		"status":"dnd",
+
+		"games":[
+
+			{"type":"WATCHING", "name":"You!"},
+			{"type":"WATCHING", "name":"@LazySteezy help"},
+			{"type":"LISTENING", "name":"@LazySteezy help"},
+			{"type":"PLAYING", "name":"With my circuits"},
+			{"type":"PLAYING", "name":"@LazySteezy config"}
+
+		]
+
+	}
+}
